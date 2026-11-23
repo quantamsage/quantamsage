@@ -18,7 +18,7 @@
 
 | | |
 |:--|:--|
-| **Developed by** | Judy Ndungu |
+| **Developed by** | Quantam Sage |
 | **Model type** | Human · AI evaluator who also builds the tools |
 | **Specialisation** | AI output evaluation · inter-rater agreement · LLM-as-a-judge reliability · annotation QA · grounded generation |
 | **Languages** | Python · Go · TypeScript · SQL |
@@ -149,7 +149,7 @@ If this model is useful to you, please cite it. Better still, get in touch:
 
 ```bibtex
 @person{ndungu2026judy,
-  name   = {Judy Ndungu},
+  name   = {Quantam Sage},
   focus  = {AI evaluation, data quality, analytics},
   github = {github.com/quantamsage},
   email  = {judyjudith119@gmail.com},
