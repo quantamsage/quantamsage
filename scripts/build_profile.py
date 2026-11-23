@@ -18,7 +18,7 @@ import urllib.request
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-USER = os.environ.get("PROFILE_USER", "judie-paul")
+USER = os.environ.get("PROFILE_USER", "quantamsage")
 ROOT = Path(__file__).resolve().parent.parent
 CARDS = ROOT / "assets" / "cards"
 README = ROOT / "README.md"
