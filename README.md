@@ -22,7 +22,7 @@
 | **Model type** | Human · AI evaluator who also builds the tools |
 | **Specialisation** | AI output evaluation · inter-rater agreement · LLM-as-a-judge reliability · annotation QA · grounded generation |
 | **Languages** | Python · Go · TypeScript · SQL |
-| **Release** | `judy.v2026`, with <!-- COUNT:START -->31<!-- COUNT:END --> public checkpoints |
+| **Release** | `sage.v2026`, with <!-- COUNT:START -->31<!-- COUNT:END --> public checkpoints |
 | **License** | 🟢 Open to work |
 
 ## 🎯 Intended use
