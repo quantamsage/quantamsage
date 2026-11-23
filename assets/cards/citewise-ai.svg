@@ -6,7 +6,7 @@
 <clipPath id="c"><rect width="420" height="160" rx="14"/></clipPath>
 </defs>
 <style>
-.s{animation:mv 6s ease-in-out -7.8s infinite}
+.s{animation:mv 6s ease-in-out -9.1s infinite}
 @keyframes mv{0%{transform:translateX(-160px)}60%,100%{transform:translateX(440px)}}
 .lv{animation:pu 2s ease-in-out infinite}
 @keyframes pu{0%,100%{opacity:1}50%{opacity:.3}}
@@ -17,7 +17,7 @@
 <rect class="s" x="0" y="0" width="140" height="2" fill="url(#sh)"/>
 </g>
 <rect x=".5" y=".5" width="419" height="159" rx="14" fill="none" stroke="#3b2a6b"/>
-<text x="24" y="28" fill="#a99cc8" font-size="10.5" font-family="'JetBrains Mono',Consolas,monospace">judie-paul/citewise-ai</text>
+<text x="24" y="28" fill="#a99cc8" font-size="10.5" font-family="'JetBrains Mono',Consolas,monospace">quantamsage/citewise-ai</text>
 <text x="24" y="52" fill="#ede7ff" font-size="19" font-weight="700">CiteWise AI</text>
 <text x="396" y="30" fill="#f0abfc" font-size="16" text-anchor="end">↗</text>
 <text x="24" y="80" fill="#c3b6e6" font-size="13">Finds real academic references via Crossref and OpenAlex</text><text x="24" y="98" fill="#c3b6e6" font-size="13">and formats APA 7 or Harvard. Never invents a DOI.</text>
