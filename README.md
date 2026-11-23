@@ -1,4 +1,4 @@
-<img width="100%" src="assets/hero.svg?v=1" alt="Judy Ndungu: a human model card for AI evaluation and data quality" />
+<img width="100%" src="assets/hero.svg?v=1" alt="Quantam Sage: a human model card for AI evaluation and data quality" />
 
 <div align="center">
 
@@ -115,15 +115,15 @@
 ## 🏋️ Training activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judie-paul/judie-paul/output/training-dark.svg">
-  <img src="https://raw.githubusercontent.com/judie-paul/judie-paul/output/training.svg" width="100%" alt="Training run: cumulative contributions with daily activity, total, active days and streaks">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quantamsage/quantamsage/output/training-dark.svg">
+  <img src="https://raw.githubusercontent.com/quantamsage/quantamsage/output/training.svg" width="100%" alt="Training run: cumulative contributions with daily activity, total, active days and streaks">
 </picture>
 
 <details>
   <summary>Full contribution calendar</summary>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judie-paul/judie-paul/output/calendar-dark.svg">
-    <img src="https://raw.githubusercontent.com/judie-paul/judie-paul/output/calendar.svg" width="100%" alt="This year's contribution calendar">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quantamsage/quantamsage/output/calendar-dark.svg">
+    <img src="https://raw.githubusercontent.com/quantamsage/quantamsage/output/calendar.svg" width="100%" alt="This year's contribution calendar">
   </picture>
 </details>
 
@@ -151,7 +151,7 @@ If this model is useful to you, please cite it. Better still, get in touch:
 @person{ndungu2026judy,
   name   = {Judy Ndungu},
   focus  = {AI evaluation, data quality, analytics},
-  github = {github.com/judie-paul},
+  github = {github.com/quantamsage},
   email  = {judyjudith119@gmail.com},
   status = {open to work}
 }
@@ -160,7 +160,7 @@ If this model is useful to you, please cite it. Better still, get in touch:
 <div align="center">
 
 <a href="mailto:judyjudith119@gmail.com"><img src="https://img.shields.io/badge/Email-0f0b1e?style=for-the-badge&logo=gmail&logoColor=C4A7FF" /></a>
-<a href="https://github.com/judie-paul"><img src="https://img.shields.io/badge/GitHub-0f0b1e?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/quantamsage"><img src="https://img.shields.io/badge/GitHub-0f0b1e?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!-- LINKEDIN: replace YOUR_LINKEDIN, then delete this comment's opening and closing markers to show it.
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
