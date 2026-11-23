@@ -46,7 +46,7 @@ def hero():
 
     # breadcrumb, like a model hub page
     p.append(f'<g class="up" style="animation-delay:.1s">'
-             + t(40, 48, f'models <tspan fill="{LINE}">/</tspan> judie-paul <tspan fill="{LINE}">/</tspan> '
+             + t(40, 48, f'models <tspan fill="{LINE}">/</tspan> quantamsage <tspan fill="{LINE}">/</tspan> '
                  f'<tspan fill="{LAV}" font-weight="700">judy.v2026</tspan>', 14, DIM, font=MONO) + "</g>")
     p.append(f'<g class="up" style="animation-delay:.25s">' + t(40, 118, "Judy Ndungu", 58, TITLE, 800) + "</g>")
     p.append(f'<g class="up" style="animation-delay:.4s">'
